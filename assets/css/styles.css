@@ -70,6 +70,13 @@ h3 {
   display: flex;
   justify-content: center;
 }
+.bio-container {
+  display: block;
+  margin-left: 150px;
+  width: 70%;
+  justify-content: center;
+
+}
 
 p {
   display: flex;
